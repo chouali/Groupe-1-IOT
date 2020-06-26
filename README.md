@@ -38,6 +38,7 @@ Il sera composé des fonctionnalités suivantes :
 | Panneau solaire | R Simulateur de panneau solaire | Panneau solaire 55x70mm 0.5W |
 | Connecteur solaire | - | LiPo Rider Pro |
 | Accumulateur solaire | - | Accu LiPo (capacité selon consommation) |
+| Capteur Micro-SD | - | Module carte micro-SD DFR0229 |
 | Résistance 10 k‚Ω | R1 | Résistance 10 k‚Ω |
 | Résistance 7.5 k‚Ω  | R Resitance Photo sensor | - |
 | Résistance 1 k‚Ω | R3, R4 | Résistance 1 k‚Ω |
