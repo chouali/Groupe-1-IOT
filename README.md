@@ -47,7 +47,7 @@ Il sera composé des fonctionnalités suivantes :
 
 
 
-Parmis les objectifs de Little Root Surveiller la luminosité, la température de l'air et l’humidité du sol, l’ensoleillement, la température, l’humidité du de l’air .
+Little Root a pour objectif de surveiller : la luminosité, l’ensoleillement, la température de l'air, la température du sol, l’humidité du sol, l’humidité du de l’air .
 
 > Tous les capteurs sont alimentés sur du 5V depuis Tinkercad.
 
